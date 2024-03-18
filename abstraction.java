@@ -1,3 +1,10 @@
+Abstraction in Java is a fundamental concept of object-oriented programming (OOP) that allows us to hide the complex implementation details and only show the necessary features of an object. It helps in reducing programming complexity and also increases efficiency.
+
+There are two main ways to achieve abstraction in Java:
+
+Abstract Classes
+Interfaces
+
 public abstract class AbstractClass { 
     int a; 
     final int b = 20; 
